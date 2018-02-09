@@ -25,7 +25,9 @@ SECRET_KEY = 't@789sgp#4*93de0_iued(4&yc-&bas0nj2usb2+za5e(=voaq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'lesya.pythonanywhere.com',
+]
 
 
 # Application definition
